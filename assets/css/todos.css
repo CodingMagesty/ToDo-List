@@ -21,10 +21,6 @@ ul {
   padding: 0;
 }
 
-.fa-plus {
-  float: right;
-}
-
 li {
   background-color: #fff;
   height: 40px;
@@ -70,14 +66,18 @@ input:focus {
   outline: none;
 }
 
-#container {
-  width: 360px;
-  margin: 100px auto;
-  background-color: #f7f7f7;
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+.fa-plus {
+  float: right;
 }
 
 .completed {
   color: grey;
   text-decoration: line-through;
+}
+
+#container {
+  width: 360px;
+  margin: 100px auto;
+  background-color: #f7f7f7;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
 }
