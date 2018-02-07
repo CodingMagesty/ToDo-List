@@ -2,8 +2,8 @@
 # Description
 This is an app to keep track of your tasks.
 
-# Known issues
+## Known issues
 None by far.
 
-# What's that for?
+## What's that for?
 To practice my CSS and JS.
