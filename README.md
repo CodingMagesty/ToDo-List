@@ -1,5 +1,5 @@
 # ToDo List
-# Description
+## Description
 This is an app to keep track of your tasks.
 
 ## Known issues
